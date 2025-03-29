@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dhanavelravi
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Nvidia
 - 📫 How to reach me :dhanavelsmart@gmail.com
 
 <!---
